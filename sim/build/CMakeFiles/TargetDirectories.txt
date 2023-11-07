@@ -1,0 +1,4 @@
+/home/lbjxjtu/sim/build/CMakeFiles/sim.dir
+/home/lbjxjtu/sim/build/CMakeFiles/Simulation.dir
+/home/lbjxjtu/sim/build/CMakeFiles/edit_cache.dir
+/home/lbjxjtu/sim/build/CMakeFiles/rebuild_cache.dir
